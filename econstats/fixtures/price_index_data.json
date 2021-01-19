@@ -1,0 +1,1058 @@
+[
+    {
+        "model": "econstats.priceindex",
+        "pk": 1,
+        "fields": {
+            "term": "01/10",
+            "price_index_rate": 8.19
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 2,
+        "fields": {
+            "term": "02/10",
+            "price_index_rate": 10.13
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 3,
+        "fields": {
+            "term": "03/10",
+            "price_index_rate": 9.56
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 4,
+        "fields": {
+            "term": "04/10",
+            "price_index_rate": 10.19
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 5,
+        "fields": {
+            "term": "05/10",
+            "price_index_rate": 9.1
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 6,
+        "fields": {
+            "term": "06/10",
+            "price_index_rate": 8.37
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 7,
+        "fields": {
+            "term": "07/10",
+            "price_index_rate": 7.58
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 8,
+        "fields": {
+            "term": "08/10",
+            "price_index_rate": 8.33
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 9,
+        "fields": {
+            "term": "09/10",
+            "price_index_rate": 9.24
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 10,
+        "fields": {
+            "term": "10/10",
+            "price_index_rate": 8.62
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 11,
+        "fields": {
+            "term": "11/10",
+            "price_index_rate": 7.29
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 12,
+        "fields": {
+            "term": "12/10",
+            "price_index_rate": 6.4
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 13,
+        "fields": {
+            "term": "01/11",
+            "price_index_rate": 4.9
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 14,
+        "fields": {
+            "term": "02/11",
+            "price_index_rate": 4.16
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 15,
+        "fields": {
+            "term": "03/11",
+            "price_index_rate": 3.99
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 16,
+        "fields": {
+            "term": "04/11",
+            "price_index_rate": 4.26
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 17,
+        "fields": {
+            "term": "05/11",
+            "price_index_rate": 7.17
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 18,
+        "fields": {
+            "term": "06/11",
+            "price_index_rate": 6.24
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 19,
+        "fields": {
+            "term": "07/11",
+            "price_index_rate": 6.31
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 20,
+        "fields": {
+            "term": "08/11",
+            "price_index_rate": 6.65
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 21,
+        "fields": {
+            "term": "09/11",
+            "price_index_rate": 6.15
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 22,
+        "fields": {
+            "term": "10/11",
+            "price_index_rate": 7.66
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 23,
+        "fields": {
+            "term": "11/11",
+            "price_index_rate": 9.48
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 24,
+        "fields": {
+            "term": "12/11",
+            "price_index_rate": 10.45
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 25,
+        "fields": {
+            "term": "01/12",
+            "price_index_rate": 10.61
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 26,
+        "fields": {
+            "term": "02/12",
+            "price_index_rate": 10.43
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 27,
+        "fields": {
+            "term": "03/12",
+            "price_index_rate": 10.43
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 28,
+        "fields": {
+            "term": "04/12",
+            "price_index_rate": 11.14
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 29,
+        "fields": {
+            "term": "05/12",
+            "price_index_rate": 8.28
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 30,
+        "fields": {
+            "term": "06/12",
+            "price_index_rate": 8.87
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 31,
+        "fields": {
+            "term": "07/12",
+            "price_index_rate": 9.07
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 32,
+        "fields": {
+            "term": "08/12",
+            "price_index_rate": 8.88
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 33,
+        "fields": {
+            "term": "09/12",
+            "price_index_rate": 9.19
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 34,
+        "fields": {
+            "term": "10/12",
+            "price_index_rate": 7.8
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 35,
+        "fields": {
+            "term": "11/12",
+            "price_index_rate": 6.37
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 36,
+        "fields": {
+            "term": "12/12",
+            "price_index_rate": 6.16
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 37,
+        "fields": {
+            "term": "01/13",
+            "price_index_rate": 7.31
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 38,
+        "fields": {
+            "term": "02/13",
+            "price_index_rate": 7.03
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 39,
+        "fields": {
+            "term": "03/13",
+            "price_index_rate": 7.29
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 40,
+        "fields": {
+            "term": "04/13",
+            "price_index_rate": 6.13
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 41,
+        "fields": {
+            "term": "05/13",
+            "price_index_rate": 6.51
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 42,
+        "fields": {
+            "term": "06/13",
+            "price_index_rate": 8.3
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 43,
+        "fields": {
+            "term": "07/13",
+            "price_index_rate": 8.88
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 44,
+        "fields": {
+            "term": "08/13",
+            "price_index_rate": 8.17
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 45,
+        "fields": {
+            "term": "09/13",
+            "price_index_rate": 7.88
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 46,
+        "fields": {
+            "term": "10/13",
+            "price_index_rate": 7.71
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 47,
+        "fields": {
+            "term": "11/13",
+            "price_index_rate": 7.32
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 48,
+        "fields": {
+            "term": "12/13",
+            "price_index_rate": 7.4
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 49,
+        "fields": {
+            "term": "01/14",
+            "price_index_rate": 7.75
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 50,
+        "fields": {
+            "term": "02/14",
+            "price_index_rate": 7.89
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 51,
+        "fields": {
+            "term": "03/14",
+            "price_index_rate": 8.39
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 52,
+        "fields": {
+            "term": "04/14",
+            "price_index_rate": 9.38
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 53,
+        "fields": {
+            "term": "05/14",
+            "price_index_rate": 9.66
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 54,
+        "fields": {
+            "term": "06/14",
+            "price_index_rate": 9.16
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 55,
+        "fields": {
+            "term": "07/14",
+            "price_index_rate": 9.32
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 56,
+        "fields": {
+            "term": "08/14",
+            "price_index_rate": 9.54
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 57,
+        "fields": {
+            "term": "09/14",
+            "price_index_rate": 8.86
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 58,
+        "fields": {
+            "term": "10/14",
+            "price_index_rate": 8.96
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 59,
+        "fields": {
+            "term": "11/14",
+            "price_index_rate": 9.15
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 60,
+        "fields": {
+            "term": "12/14",
+            "price_index_rate": 8.17
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 61,
+        "fields": {
+            "term": "01/15",
+            "price_index_rate": 7.24
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 62,
+        "fields": {
+            "term": "02/15",
+            "price_index_rate": 7.55
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 63,
+        "fields": {
+            "term": "03/15",
+            "price_index_rate": 7.61
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 64,
+        "fields": {
+            "term": "04/15",
+            "price_index_rate": 7.91
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 65,
+        "fields": {
+            "term": "05/15",
+            "price_index_rate": 8.09
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 66,
+        "fields": {
+            "term": "06/15",
+            "price_index_rate": 7.2
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 67,
+        "fields": {
+            "term": "07/15",
+            "price_index_rate": 6.81
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 68,
+        "fields": {
+            "term": "08/15",
+            "price_index_rate": 7.14
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 69,
+        "fields": {
+            "term": "09/15",
+            "price_index_rate": 7.95
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 70,
+        "fields": {
+            "term": "10/15",
+            "price_index_rate": 7.58
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 71,
+        "fields": {
+            "term": "11/15",
+            "price_index_rate": 8.1
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 72,
+        "fields": {
+            "term": "12/15",
+            "price_index_rate": 8.81
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 73,
+        "fields": {
+            "term": "01/16",
+            "price_index_rate": 9.58
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 74,
+        "fields": {
+            "term": "02/16",
+            "price_index_rate": 8.78
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 75,
+        "fields": {
+            "term": "03/16",
+            "price_index_rate": 7.46
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 76,
+        "fields": {
+            "term": "04/16",
+            "price_index_rate": 6.57
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 77,
+        "fields": {
+            "term": "05/16",
+            "price_index_rate": 6.58
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 78,
+        "fields": {
+            "term": "06/16",
+            "price_index_rate": 7.64
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 79,
+        "fields": {
+            "term": "07/16",
+            "price_index_rate": 8.79
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 80,
+        "fields": {
+            "term": "08/16",
+            "price_index_rate": 8.05
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 81,
+        "fields": {
+            "term": "09/16",
+            "price_index_rate": 7.28
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 82,
+        "fields": {
+            "term": "10/16",
+            "price_index_rate": 7.16
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 83,
+        "fields": {
+            "term": "11/16",
+            "price_index_rate": 7.0
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 84,
+        "fields": {
+            "term": "12/16",
+            "price_index_rate": 8.53
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 85,
+        "fields": {
+            "term": "01/17",
+            "price_index_rate": 9.22
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 86,
+        "fields": {
+            "term": "02/17",
+            "price_index_rate": 10.13
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 87,
+        "fields": {
+            "term": "03/17",
+            "price_index_rate": 11.29
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 88,
+        "fields": {
+            "term": "04/17",
+            "price_index_rate": 11.87
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 89,
+        "fields": {
+            "term": "05/17",
+            "price_index_rate": 11.72
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 90,
+        "fields": {
+            "term": "06/17",
+            "price_index_rate": 10.9
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 91,
+        "fields": {
+            "term": "07/17",
+            "price_index_rate": 9.79
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 92,
+        "fields": {
+            "term": "08/17",
+            "price_index_rate": 10.68
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 93,
+        "fields": {
+            "term": "09/17",
+            "price_index_rate": 11.2
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 94,
+        "fields": {
+            "term": "10/17",
+            "price_index_rate": 11.9
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 95,
+        "fields": {
+            "term": "11/17",
+            "price_index_rate": 12.98
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 96,
+        "fields": {
+            "term": "12/17",
+            "price_index_rate": 11.92
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 97,
+        "fields": {
+            "term": "01/18",
+            "price_index_rate": 10.35
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 98,
+        "fields": {
+            "term": "02/18",
+            "price_index_rate": 10.26
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 99,
+        "fields": {
+            "term": "03/18",
+            "price_index_rate": 10.23
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 100,
+        "fields": {
+            "term": "04/18",
+            "price_index_rate": 10.85
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 101,
+        "fields": {
+            "term": "05/18",
+            "price_index_rate": 12.15
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 102,
+        "fields": {
+            "term": "06/18",
+            "price_index_rate": 15.39
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 103,
+        "fields": {
+            "term": "07/18",
+            "price_index_rate": 15.85
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 104,
+        "fields": {
+            "term": "08/18",
+            "price_index_rate": 17.9
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 105,
+        "fields": {
+            "term": "09/18",
+            "price_index_rate": 24.52
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 106,
+        "fields": {
+            "term": "10/18",
+            "price_index_rate": 25.24
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 107,
+        "fields": {
+            "term": "11/18",
+            "price_index_rate": 21.62
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 108,
+        "fields": {
+            "term": "12/18",
+            "price_index_rate": 20.3
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 109,
+        "fields": {
+            "term": "01/19",
+            "price_index_rate": 20.35
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 110,
+        "fields": {
+            "term": "02/19",
+            "price_index_rate": 19.67
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 111,
+        "fields": {
+            "term": "03/19",
+            "price_index_rate": 19.71
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 112,
+        "fields": {
+            "term": "04/19",
+            "price_index_rate": 19.5
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 113,
+        "fields": {
+            "term": "05/19",
+            "price_index_rate": 18.71
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 114,
+        "fields": {
+            "term": "06/19",
+            "price_index_rate": 15.72
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 115,
+        "fields": {
+            "term": "07/19",
+            "price_index_rate": 16.65
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 116,
+        "fields": {
+            "term": "08/19",
+            "price_index_rate": 15.01
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 117,
+        "fields": {
+            "term": "09/19",
+            "price_index_rate": 9.26
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 118,
+        "fields": {
+            "term": "10/19",
+            "price_index_rate": 8.55
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 119,
+        "fields": {
+            "term": "11/19",
+            "price_index_rate": 10.56
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 120,
+        "fields": {
+            "term": "12/19",
+            "price_index_rate": 11.84
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 121,
+        "fields": {
+            "term": "01/20",
+            "price_index_rate": 12.15
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 122,
+        "fields": {
+            "term": "02/20",
+            "price_index_rate": 12.37
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 123,
+        "fields": {
+            "term": "03/20",
+            "price_index_rate": 11.86
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 124,
+        "fields": {
+            "term": "04/20",
+            "price_index_rate": 10.94
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 125,
+        "fields": {
+            "term": "05/20",
+            "price_index_rate": 11.39
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 126,
+        "fields": {
+            "term": "06/20",
+            "price_index_rate": 12.62
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 127,
+        "fields": {
+            "term": "07/20",
+            "price_index_rate": 11.76
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 128,
+        "fields": {
+            "term": "08/20",
+            "price_index_rate": 11.77
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 129,
+        "fields": {
+            "term": "09/20",
+            "price_index_rate": 11.75
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 130,
+        "fields": {
+            "term": "10/20",
+            "price_index_rate": 11.89
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 131,
+        "fields": {
+            "term": "11/20",
+            "price_index_rate": 14.03
+        }
+    },
+    {
+        "model": "econstats.priceindex",
+        "pk": 132,
+        "fields": {
+            "term": "12/20",
+            "price_index_rate": 14.6
+        }
+    }
+]

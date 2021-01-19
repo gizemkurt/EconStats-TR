@@ -1,0 +1,43 @@
+{% extends 'econstats/base.html' %}
+{% load static %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+  <h1>Welcome to EconStats for Turkey</h1>
+  <hr>
+
+  We are dedicated to inform you with comprehensive statistics. You may find what we are offering:
+
+<div class="row mt-3">
+  <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Interest Rates</h5>
+        <p class="card-text">The rate of interest Turkish Central Bank (TCB) offering by time.</p>
+        <a href="/stats/interest-rates" class="btn btn-dark">View Stats</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Price Indices</h5>
+        <p class="card-text">The rate of price indices Turkey was facing is listed here in detail.</p>
+        <a href="/stats/price-indices" class="btn btn-dark">View Stats</a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Combined Stats</h5>
+        <p class="card-text">This section combines all the information we provide only in one chart!</p>
+        <a href="/stats/all" class="btn btn-dark">View Stats</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+{% endblock %}

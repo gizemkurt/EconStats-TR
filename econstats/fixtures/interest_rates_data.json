@@ -1,0 +1,1058 @@
+[
+    {
+        "model": "econstats.interestrate",
+        "pk": 1,
+        "fields": {
+            "term": "01/10",
+            "interest_rate": 7.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 2,
+        "fields": {
+            "term": "02/10",
+            "interest_rate": 7.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 3,
+        "fields": {
+            "term": "03/10",
+            "interest_rate": 7.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 4,
+        "fields": {
+            "term": "04/10",
+            "interest_rate": 7.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 5,
+        "fields": {
+            "term": "05/10",
+            "interest_rate": 7.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 6,
+        "fields": {
+            "term": "06/10",
+            "interest_rate": 7.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 7,
+        "fields": {
+            "term": "07/10",
+            "interest_rate": 7.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 8,
+        "fields": {
+            "term": "08/10",
+            "interest_rate": 7.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 9,
+        "fields": {
+            "term": "09/10",
+            "interest_rate": 7.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 10,
+        "fields": {
+            "term": "10/10",
+            "interest_rate": 7.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 11,
+        "fields": {
+            "term": "11/10",
+            "interest_rate": 7.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 12,
+        "fields": {
+            "term": "12/10",
+            "interest_rate": 6.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 13,
+        "fields": {
+            "term": "01/11",
+            "interest_rate": 6.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 14,
+        "fields": {
+            "term": "02/11",
+            "interest_rate": 6.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 15,
+        "fields": {
+            "term": "03/11",
+            "interest_rate": 6.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 16,
+        "fields": {
+            "term": "04/11",
+            "interest_rate": 6.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 17,
+        "fields": {
+            "term": "05/11",
+            "interest_rate": 6.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 18,
+        "fields": {
+            "term": "06/11",
+            "interest_rate": 6.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 19,
+        "fields": {
+            "term": "07/11",
+            "interest_rate": 6.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 20,
+        "fields": {
+            "term": "08/11",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 21,
+        "fields": {
+            "term": "09/11",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 22,
+        "fields": {
+            "term": "10/11",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 23,
+        "fields": {
+            "term": "11/11",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 24,
+        "fields": {
+            "term": "12/11",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 25,
+        "fields": {
+            "term": "01/12",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 26,
+        "fields": {
+            "term": "02/12",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 27,
+        "fields": {
+            "term": "03/12",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 28,
+        "fields": {
+            "term": "04/12",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 29,
+        "fields": {
+            "term": "05/12",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 30,
+        "fields": {
+            "term": "06/12",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 31,
+        "fields": {
+            "term": "07/12",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 32,
+        "fields": {
+            "term": "08/12",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 33,
+        "fields": {
+            "term": "09/12",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 34,
+        "fields": {
+            "term": "10/12",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 35,
+        "fields": {
+            "term": "11/12",
+            "interest_rate": 5.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 36,
+        "fields": {
+            "term": "12/12",
+            "interest_rate": 5.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 37,
+        "fields": {
+            "term": "01/13",
+            "interest_rate": 5.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 38,
+        "fields": {
+            "term": "02/13",
+            "interest_rate": 5.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 39,
+        "fields": {
+            "term": "03/13",
+            "interest_rate": 5.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 40,
+        "fields": {
+            "term": "04/13",
+            "interest_rate": 5.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 41,
+        "fields": {
+            "term": "05/13",
+            "interest_rate": 4.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 42,
+        "fields": {
+            "term": "06/13",
+            "interest_rate": 4.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 43,
+        "fields": {
+            "term": "07/13",
+            "interest_rate": 4.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 44,
+        "fields": {
+            "term": "08/13",
+            "interest_rate": 4.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 45,
+        "fields": {
+            "term": "09/13",
+            "interest_rate": 4.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 46,
+        "fields": {
+            "term": "10/13",
+            "interest_rate": 4.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 47,
+        "fields": {
+            "term": "11/13",
+            "interest_rate": 4.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 48,
+        "fields": {
+            "term": "12/13",
+            "interest_rate": 4.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 49,
+        "fields": {
+            "term": "01/14",
+            "interest_rate": 10.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 50,
+        "fields": {
+            "term": "02/14",
+            "interest_rate": 10.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 51,
+        "fields": {
+            "term": "03/14",
+            "interest_rate": 10.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 52,
+        "fields": {
+            "term": "04/14",
+            "interest_rate": 10.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 53,
+        "fields": {
+            "term": "05/14",
+            "interest_rate": 9.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 54,
+        "fields": {
+            "term": "06/14",
+            "interest_rate": 8.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 55,
+        "fields": {
+            "term": "07/14",
+            "interest_rate": 8.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 56,
+        "fields": {
+            "term": "08/14",
+            "interest_rate": 8.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 57,
+        "fields": {
+            "term": "09/14",
+            "interest_rate": 8.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 58,
+        "fields": {
+            "term": "10/14",
+            "interest_rate": 8.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 59,
+        "fields": {
+            "term": "11/14",
+            "interest_rate": 8.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 60,
+        "fields": {
+            "term": "12/14",
+            "interest_rate": 8.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 61,
+        "fields": {
+            "term": "01/15",
+            "interest_rate": 7.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 62,
+        "fields": {
+            "term": "02/15",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 63,
+        "fields": {
+            "term": "03/15",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 64,
+        "fields": {
+            "term": "04/15",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 65,
+        "fields": {
+            "term": "05/15",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 66,
+        "fields": {
+            "term": "06/15",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 67,
+        "fields": {
+            "term": "07/15",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 68,
+        "fields": {
+            "term": "08/15",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 69,
+        "fields": {
+            "term": "09/15",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 70,
+        "fields": {
+            "term": "10/15",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 71,
+        "fields": {
+            "term": "11/15",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 72,
+        "fields": {
+            "term": "12/15",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 73,
+        "fields": {
+            "term": "01/16",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 74,
+        "fields": {
+            "term": "02/16",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 75,
+        "fields": {
+            "term": "03/16",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 76,
+        "fields": {
+            "term": "04/16",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 77,
+        "fields": {
+            "term": "05/16",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 78,
+        "fields": {
+            "term": "06/16",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 79,
+        "fields": {
+            "term": "07/16",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 80,
+        "fields": {
+            "term": "08/16",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 81,
+        "fields": {
+            "term": "09/16",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 82,
+        "fields": {
+            "term": "10/16",
+            "interest_rate": 7.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 83,
+        "fields": {
+            "term": "11/16",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 84,
+        "fields": {
+            "term": "12/16",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 85,
+        "fields": {
+            "term": "01/17",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 86,
+        "fields": {
+            "term": "02/17",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 87,
+        "fields": {
+            "term": "03/17",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 88,
+        "fields": {
+            "term": "04/17",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 89,
+        "fields": {
+            "term": "05/17",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 90,
+        "fields": {
+            "term": "06/17",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 91,
+        "fields": {
+            "term": "07/17",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 92,
+        "fields": {
+            "term": "08/17",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 93,
+        "fields": {
+            "term": "09/17",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 94,
+        "fields": {
+            "term": "10/17",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 95,
+        "fields": {
+            "term": "11/17",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 96,
+        "fields": {
+            "term": "12/17",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 97,
+        "fields": {
+            "term": "01/18",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 98,
+        "fields": {
+            "term": "02/18",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 99,
+        "fields": {
+            "term": "03/18",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 100,
+        "fields": {
+            "term": "04/18",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 101,
+        "fields": {
+            "term": "05/18",
+            "interest_rate": 8.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 102,
+        "fields": {
+            "term": "06/18",
+            "interest_rate": 17.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 103,
+        "fields": {
+            "term": "07/18",
+            "interest_rate": 17.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 104,
+        "fields": {
+            "term": "08/18",
+            "interest_rate": 17.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 105,
+        "fields": {
+            "term": "09/18",
+            "interest_rate": 24.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 106,
+        "fields": {
+            "term": "10/18",
+            "interest_rate": 24.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 107,
+        "fields": {
+            "term": "11/18",
+            "interest_rate": 24.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 108,
+        "fields": {
+            "term": "12/18",
+            "interest_rate": 24.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 109,
+        "fields": {
+            "term": "01/19",
+            "interest_rate": 24.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 110,
+        "fields": {
+            "term": "02/19",
+            "interest_rate": 24.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 111,
+        "fields": {
+            "term": "03/19",
+            "interest_rate": 24.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 112,
+        "fields": {
+            "term": "04/19",
+            "interest_rate": 24.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 113,
+        "fields": {
+            "term": "05/19",
+            "interest_rate": 24.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 114,
+        "fields": {
+            "term": "06/19",
+            "interest_rate": 24.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 115,
+        "fields": {
+            "term": "07/19",
+            "interest_rate": 19.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 116,
+        "fields": {
+            "term": "08/19",
+            "interest_rate": 19.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 117,
+        "fields": {
+            "term": "09/19",
+            "interest_rate": 16.5
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 118,
+        "fields": {
+            "term": "10/19",
+            "interest_rate": 14.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 119,
+        "fields": {
+            "term": "11/19",
+            "interest_rate": 14.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 120,
+        "fields": {
+            "term": "12/19",
+            "interest_rate": 12.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 121,
+        "fields": {
+            "term": "01/20",
+            "interest_rate": 11.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 122,
+        "fields": {
+            "term": "02/20",
+            "interest_rate": 10.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 123,
+        "fields": {
+            "term": "03/20",
+            "interest_rate": 9.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 124,
+        "fields": {
+            "term": "04/20",
+            "interest_rate": 8.75
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 125,
+        "fields": {
+            "term": "05/20",
+            "interest_rate": 8.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 126,
+        "fields": {
+            "term": "06/20",
+            "interest_rate": 8.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 127,
+        "fields": {
+            "term": "07/20",
+            "interest_rate": 8.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 128,
+        "fields": {
+            "term": "08/20",
+            "interest_rate": 8.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 129,
+        "fields": {
+            "term": "09/20",
+            "interest_rate": 10.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 130,
+        "fields": {
+            "term": "10/20",
+            "interest_rate": 10.25
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 131,
+        "fields": {
+            "term": "11/20",
+            "interest_rate": 15.0
+        }
+    },
+    {
+        "model": "econstats.interestrate",
+        "pk": 132,
+        "fields": {
+            "term": "12/20",
+            "interest_rate": 17.0
+        }
+    }
+]
